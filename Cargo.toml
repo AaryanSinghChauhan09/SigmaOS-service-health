@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-service-health"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS service-health component - init_system"
+
+[lib]
+name = "service_health"
+path = "src/lib.rs"
