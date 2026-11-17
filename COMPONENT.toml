@@ -3,7 +3,7 @@ name = "SigmaOS-service-health"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-health component"
+description = "service health"
 upstream = []
 
 [contract]
